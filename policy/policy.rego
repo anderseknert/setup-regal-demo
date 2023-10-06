@@ -1,3 +1,3 @@
 package policy
 
-foo := "bar"
+boo := "bar"
